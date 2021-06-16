@@ -682,6 +682,7 @@ img {
   border-radius: 4px;
 }
 .modal-close {
+  display: flex;
   position: absolute;
   right: 8px;
   top: 8px;
@@ -696,5 +697,6 @@ img {
 .button-modal-close {
   width: 18px;
   height: 18px;
+  margin: auto;
   fill: #000000;
 }
